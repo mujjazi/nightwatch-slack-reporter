@@ -33,7 +33,7 @@
     "mockery": "^1.7.0"
   },
   "dependencies": {
-    "@slack/client": "^3.6.0",
+    "@slack/web-api": "^6.0.0",
     "object-assign": "^4.1.0"
   }
 }
